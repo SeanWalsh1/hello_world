@@ -1,3 +1,4 @@
+<?
 echo'<!DOCTYPE html>
 <html>
  <head>
@@ -6,5 +7,7 @@ echo'<!DOCTYPE html>
  </head>
  <body>
   <h1>Hello World</h1>
+  <p> this is the second revision</p>
  </body>
 </html>'
+?>
